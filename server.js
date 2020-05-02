@@ -1,3 +1,4 @@
 require('dotenv').config()
-const inquirer = require('express');
-const mysql = require('mysql');
+const express = require('express');
+const exphbs = require("express-handlebars");
+var connection = require('./config/connection.js');
