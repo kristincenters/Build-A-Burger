@@ -11,4 +11,4 @@ VALUES
 INSERT INTO burger
     (burger_name, devoured)
 VALUES
-    ('Plain Burger', 'true');    
+    ('Plain Burger', 'true');   
