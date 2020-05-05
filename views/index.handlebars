@@ -14,34 +14,29 @@
                         name="name">
                 </div>
 
-                <button type="button"
-                    class="btn btn-primary btn-lg btn-block">Order It!</button>
+                <button type="submit"
+                    class="btn btn-success btn-lg">Order It!</button>
             </form>
         </div>
-
-
-
         <div class="col-sm-4">
             <h2>Ordered Burgers</h2>
-            <ol class="list-group">
+            <ul class="list-group">
                 {{#each burger}}
                 {{#unless devoured}}
                 {{> burger/burger-block devoured=true}}
                 {{/unless}}
                 {{/each}}
-            </ol>
+            </ul>
         </div>
-
-
         <div class="col-sm-4">
             <h2>Devoured Burgers</h2>
-            <ol class="list-group">
+            <ul class="list-group">
                 {{#each burger}}
                 {{#if devoured}}
                 {{> burger/burger-block devoured=false}}
                 {{/if}}
                 {{/each}}
-            </ol>
+            </ul>
         </div>
     </div>
 </div>
