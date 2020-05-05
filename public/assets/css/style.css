@@ -1,16 +1,5 @@
-body {
-background-color: #32cc32;
-font-family: 'Montserrat', sans-serif;
-
-background-repeat: no-repeat;
-}
-.jumbotron {
-  background-color: #32cc32;
-  border-radius: 0px;
-  
-  background-image: url('/assets/img/burger.png'); 
-  background-repeat: no-repeat;
-  min-height: 400px;
+* {
+    font-family: 'Montserrat', sans-serif;
 }
 h1 {
 font-family: 'Bowlby One SC', cursive;
