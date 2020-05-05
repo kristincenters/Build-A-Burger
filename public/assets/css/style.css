@@ -1,0 +1,34 @@
+body {
+background-color: #32cc32;
+font-family: 'Montserrat', sans-serif;
+
+background-repeat: no-repeat;
+}
+.jumbotron {
+  background-color: #32cc32;
+  border-radius: 0px;
+  
+  background-image: url('/assets/img/burger.png'); 
+  background-repeat: no-repeat;
+  min-height: 400px;
+}
+h1 {
+font-family: 'Bowlby One SC', cursive;
+}
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+}
+.label {
+    font-weight: bold;
+} 
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+}
+.form-group {
+    margin-bottom: 5px;
+}
+ 
