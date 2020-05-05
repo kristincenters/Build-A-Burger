@@ -1,3 +1,12 @@
+html, body, p, th, td, li, dd, dt ul {
+background-color: #55BBE9;
+font-family: 'Montserrat', sans-serif; 
+}
+
+h1 {
+font-family: 'Bowlby One SC', cursive;
+}
+
 li {
     padding: 5px;
     margin: 5px;
@@ -17,3 +26,6 @@ li {
   .form-group {
     margin-bottom: 5px;
   }
+  .list-group-item {
+    display: list-item;
+}
