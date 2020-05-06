@@ -3,12 +3,11 @@ A restaurant app that lets users input the names of burgers they'd like to eat. 
 
 ## [Burger Application Deployed on Heroku](https://limitless-temple-19750.herokuapp.com/)
 
-![](.public/assets/img/burgerscreen.png)
+![](./public/assets/img/burgerscreen.png)
 
 ## Technology Stacks
 
 Node, JS, GIT, Express, Handlebars
-Follows MVC design pattern
 
 ## How to run the app as a local install
 
