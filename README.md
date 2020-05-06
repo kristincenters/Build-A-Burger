@@ -1,9 +1,9 @@
 # Build-A-Burger
 A restaurant app that lets users input the names of burgers they'd like to eat. Click the link below, enter your favorite burger and click add to order it. When finished, click "Devoured It" to save, and click "Yum" to order it again. 
 
-## [Note Taker Application Deployed on Heroku](https://still-brushlands-77723.herokuapp.com/)
+## [Burger Application Deployed on Heroku](https://limitless-temple-19750.herokuapp.com/)
 
-![](./public/assets/)
+![](.public/assets/img/burgerscreen.png)
 
 ## Technology Stacks
 
